@@ -7,7 +7,7 @@ Install
 MixfaderSDK is on [CocoaPods](http://cocoapods.org). Simply add:
 
 ```Ruby
-pod 'MixfaderSDK'
+pod 'MixfaderSDKCocoa'
 ```
 to your Podfile.
 
